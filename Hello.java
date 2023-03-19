@@ -8,6 +8,7 @@ public class HelloGit{
 		System.out.println("Hello Git");
 
 	}
+    System.out.println("gitee override");
 	System.out.println("程序结束");
 }
 
