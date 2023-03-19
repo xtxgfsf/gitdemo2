@@ -4,6 +4,8 @@ public class HelloGit{
 		System.out.println("Hello Git1");
 		System.out.println("Hello Git2");
         System.out.println("Hello Git3");
+	for(int i=0;i<10;i++){
+		System.out.println("Hello Git");
 	}
 }
 
